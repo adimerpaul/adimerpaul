@@ -70,10 +70,5 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.facebook.com/https://github.com/adimerpaul" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
-<a target="_blank" href="https://www.codepen.io/https://codepen.io/adimer" style="display: inline-block;"><img src="https://img.shields.io/badge/codepen?style=for-the-badge&logo=codepen&logoColor=white&color=black" alt="codepen" /></a>
-<a target="_blank" href="https://www.youtube.com/https://www.youtube.com/channel/UC2Ixl1lP-ts3NiwHIa-CJQQ" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=adimer paul chambi ajata&show_icons=true&locale=en" alt="adimer paul chambi ajata" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adimer paul chambi ajata&" alt="adimer paul chambi ajata" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=adimer paul chambi ajata&show_icons=true&locale=en&layout=compact" alt="adimer paul chambi ajata" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adimer paul chambi ajata" alt="adimer paul chambi ajata" /></a></p>
+<p><a target="_blank" href="https://www.facebook.com/https://github.com/adimerpaul" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a><a target="_blank" href="https://www.youtube.com/https://www.youtube.com/channel/UC2Ixl1lP-ts3NiwHIa-CJQQ" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
+
